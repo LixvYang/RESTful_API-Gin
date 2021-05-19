@@ -1,5 +1,7 @@
 # Go-REST
 
+仅供学习使用，适合初学者
+
 ---
 
 ### 使用Mysql
@@ -24,6 +26,8 @@ CREATE TABLE `users` (
     -> PRIMARY KEY (`id`)
     -> ) ENGINE=InnoDB AUTO_INCREMENT=39 DEFAULT CHARSET=utf8;
 ```
+
+下载
 
 ```
 git clone https://github.com/YLX621/RESTful_API-Gin.git
